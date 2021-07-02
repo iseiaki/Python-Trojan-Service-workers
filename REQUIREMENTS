@@ -1,0 +1,18 @@
+THESE ARE THE MODULES NEEDED IN FILE - SERVICE-WORKERS.py
+
+import requests
+import time
+import pyautogui
+import random
+import os
+import smtplib
+from email.mime.text import MIMEText
+from email.mime.image import MIMEImage
+from email.mime.multipart import MIMEMultipart
+from datetime import datetime
+import socket
+import subprocess
+import shutil
+from requests import get
+
+INSTALL THEM BEFORE YOU RUN THE SCRIPT ON LOCAL MACHINE 
